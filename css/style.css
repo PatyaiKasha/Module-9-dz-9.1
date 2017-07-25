@@ -1,22 +1,18 @@
 .container {
-  padding: 10px 10px 10px 10px;
-  background: #fff;
-}
+  background: #fff; }
 
 header .header {
   height: 200px;
   background: url("../img/960_logo.png") 50% 50%;
   background-size: 30%;
   background-repeat: no-repeat;
-  background-color: #4527a0;
-}
+  background-color: #4527a0; }
 
-article .block {
+.block {
   height: 100px;
-  background: #4527a0;
-}
-article .fourth {
-  margin: 0;
-}
+  background: #4527a0; }
+
+.fourth {
+  margin: 0; }
 
 /*# sourceMappingURL=style.css.map */
